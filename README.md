@@ -6,6 +6,12 @@ This registry fix resolves an issue where the Task Manager process might continu
 
 **Status**: ✅ Verified and tested
 
+## 📥 Quick Download
+
+**[⬇️ Download Registry Fix](https://raw.githubusercontent.com/1LUC1D4710N/task-manager-background-process-fix/main/Task%20Manager%20Background%20Process%20Fix.reg)**
+
+Right-click the downloaded `.reg` file → **Merge** → **Yes** → **Restart** ✅
+
 ## Issue Description
 
 In Windows 11 Insider Preview Build 28000 and certain other builds, Task Manager exhibits a bug where:
