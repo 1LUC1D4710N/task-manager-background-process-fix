@@ -137,7 +137,7 @@ When the official hotfix is released, follow the "Uninstallation" steps above to
 ## Sources
 
 - **Online Article**: [Make Tech Easier - Fix Windows Task Manager Duplication Bug](https://www.maketecheasier.com/fix-windows-task-manager-duplication-bug/)
-- **Original Registry File**: [SimonMacer/CreateMediaRefresh25H2](https://github.com/SimonMacer/CreateMediaRefresh25H2/blob/main/Other/Resolve%20Task%20Manager%20process%20might%20continue%20to%20run%20in%20background%20after%20app%20is%20closed.reg)
+- **Original Registry File**: [SimonMacer/CreateMediaRefresh25H2/Other](https://github.com/SimonMacer/CreateMediaRefresh25H2/blob/main/Other/Resolve%20Task%20Manager%20process%20might%20continue%20to%20run%20in%20background%20after%20app%20is%20closed.reg)
 - **Verification Script**: [kill-taskmgr-script](https://github.com/1LUC1D4710N/kill-taskmgr-script)
 
 ## Testing Confirmation
